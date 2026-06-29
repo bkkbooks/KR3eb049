@@ -1,0 +1,881 @@
+canonical_identifier: bkk:krp/KR3eb049/v1
+canonical_location: https://kanripo.org/bkk/KR3eb049/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 形色外診簡摩
+  identifiers:
+    krp: KR3eb049
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb049.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb049_000.yaml, hash: 'sha256:ed2754de403fc5ce42dad9684a043d1b4d40c17c58621e4a4f5bdc7cf1329d01'}
+  - {seq: 1, filename: KR3eb049_001.yaml, hash: 'sha256:b3e468626f384651bdc305d96721cb452c2940395dc4ab4e9ff7cb7591db814a'}
+  - {seq: 3, filename: KR3eb049_003.yaml, hash: 'sha256:9a237a830fcf57175b621753beccb0826f5edf01c124661983b66c023f5a3c48'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb049_000.markers.yaml, hash: 'sha256:e1678f82b85c4af3a592a69176d2892140ab2216bc043e479de86df1352dcffd'}
+  - {seq: 1, role: markers, filename: assets/KR3eb049_001.markers.yaml, hash: 'sha256:4453201cfec6f018cb14d97bf5b354c7e9e0d98ac7a5c3d7cb78f05ac176edf1'}
+  - {seq: 3, role: markers, filename: assets/KR3eb049_003.markers.yaml, hash: 'sha256:7512a036c94462995704a41d342a6e60df916a32b5a60d92dd4175854d27090e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb049_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 372
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 24354
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 2642
+  label: 形診總義
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d2d2
+    span:
+    - body
+    - 6
+    - 1262
+  label: 身形內應臟腑部位篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d2d3
+    span:
+    - body
+    - 1262
+    - 2642
+  label: 身形內應臟腑病證篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3d3
+    span:
+    - body
+    - 2642
+    - 10264
+  label: 形診生形類
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d3d2
+    span:
+    - body
+    - 2647
+    - 2965
+  label: 三人篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d3d3
+    span:
+    - body
+    - 2965
+    - 3134
+  label: 陽人陰人篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d3d4
+    span:
+    - body
+    - 3134
+    - 4034
+  label: 五人篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d3d5
+    span:
+    - body
+    - 4034
+    - 5740
+  label: 二十五人篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d3.d5d56
+    span:
+    - body
+    - 4929
+    - 5344
+  label: 附形色相勝年忌
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d3.d5d57
+    span:
+    - body
+    - 5344
+    - 5740
+  label: 附相家五形五色五聲
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d3d6
+    span:
+    - body
+    - 5740
+    - 6934
+  label: 三陽上下氣血多少形狀篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d3.d6d30
+    span:
+    - body
+    - 6540
+    - 6784
+  label: 附婦宦無須
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d3.d6d31
+    span:
+    - body
+    - 6784
+    - 6934
+  label: 附六經氣血多少
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d3d7
+    span:
+    - body
+    - 6934
+    - 7203
+  label: 辨皮色不勝四時之風篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d3d8
+    span:
+    - body
+    - 7203
+    - 8555
+  label: 辨壽夭肥瘦勇怯忍痛不忍痛勝毒不勝毒形狀篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d3d9
+    span:
+    - body
+    - 8555
+    - 9598
+  label: 辨善病風厥消癉寒熱痹積聚善忘善飢不瞑多臥形狀篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d3.d9d26
+    span:
+    - body
+    - 9519
+    - 9598
+  label: 附壯不晝瞑老不夜瞑
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d3d10
+    span:
+    - body
+    - 9598
+    - 10264
+  label: 辨人身氣血盛衰時日篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3d4
+    span:
+    - body
+    - 10264
+    - 21607
+  label: 形診病形類
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4d2
+    span:
+    - body
+    - 10269
+    - 12225
+  label: 五臟病證總例篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4.d2d24
+    span:
+    - body
+    - 11530
+    - 12008
+  label: 附五邪病證心例
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4.d2d25
+    span:
+    - body
+    - 12008
+    - 12225
+  label: 附六氣病證總例
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4d3
+    span:
+    - body
+    - 12225
+    - 12759
+  label: 尺膚滑澀肘臂掌臍寒熱決病篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4d4
+    span:
+    - body
+    - 12759
+    - 13583
+  label: 百病頭身手足寒熱順逆死生篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4d5
+    span:
+    - body
+    - 13583
+    - 14285
+  label: 形氣有餘不足篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4.d5d14
+    span:
+    - body
+    - 14166
+    - 14285
+  label: 附營衛病形
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4d6
+    span:
+    - body
+    - 14285
+    - 14935
+  label: 諸病以肥瘦決難治易治篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4d7
+    span:
+    - body
+    - 14935
+    - 15500
+  label: 骨槁肉陷篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4.d7d14
+    span:
+    - body
+    - 15257
+    - 15500
+  label: 附損至脈證
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4d8
+    span:
+    - body
+    - 15500
+    - 15850
+  label: 診大肉消長捷法篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4d9
+    span:
+    - body
+    - 15850
+    - 16683
+  label: 病深而形色毛髮有不變者篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4d10
+    span:
+    - body
+    - 16683
+    - 17622
+  label: 百病虛實順逆篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4d11
+    span:
+    - body
+    - 17622
+    - 17985
+  label: 諸病以晝夜靜劇辨陰陽氣血篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4d12
+    span:
+    - body
+    - 17985
+    - 21015
+  label: 百病善惡形證匯述篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4.d12d28
+    span:
+    - body
+    - 19133
+    - 21015
+  label: 附李東垣內外傷辨證
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d4d13
+    span:
+    - body
+    - 21015
+    - 21607
+  label: 五臟陰陽絕證篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3d5
+    span:
+    - body
+    - 21607
+    - 24354
+  label: 形診絡脈形色類
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d5d2
+    span:
+    - body
+    - 21614
+    - 22313
+  label: 絡解篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d5d3
+    span:
+    - body
+    - 22313
+    - 23693
+  label: 絡形篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb049_jc_001-d3.d5d4
+    span:
+    - body
+    - 23693
+    - 24354
+  label: 絡色篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 34359
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 5958
+  label: 色診面色總義
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d2d2
+    span:
+    - body
+    - 8
+    - 1127
+  label: 面部內應臟腑外應肢節並男女左右順逆篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d2.d2d10
+    span:
+    - body
+    - 901
+    - 1127
+  label: 附倉公診色分界法
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d2d3
+    span:
+    - body
+    - 1127
+    - 3703
+  label: 面部臟腑肢節分位圖說篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d2d4
+    span:
+    - body
+    - 3703
+    - 5285
+  label: 察色真訣篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d2d5
+    span:
+    - body
+    - 5285
+    - 5958
+  label: 五色吉凶通義篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4d3
+    span:
+    - body
+    - 5958
+    - 13990
+  label: 色診面色應病類
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d3d2
+    span:
+    - body
+    - 5965
+    - 6903
+  label: 內經面部五色應病總述篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d3d3
+    span:
+    - body
+    - 6903
+    - 8011
+  label: 五臟風證並諸風肥瘦寒熱形色篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d3d4
+    span:
+    - body
+    - 8011
+    - 9624
+  label: 千金面部五色入門戶井灶及五臟卒死吉凶篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d3d5
+    span:
+    - body
+    - 9624
+    - 9910
+  label: 面部五色吉凶雜述篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d3d6
+    span:
+    - body
+    - 9910
+    - 10524
+  label: 面目五色生克篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d3d7
+    span:
+    - body
+    - 10524
+    - 12483
+  label: 傷寒面部五色應證篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d3d8
+    span:
+    - body
+    - 12483
+    - 12855
+  label: 溫病面部五色應證篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d3d9
+    span:
+    - body
+    - 12855
+    - 13990
+  label: 雜病面部五色應證篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4d4
+    span:
+    - body
+    - 13990
+    - 16147
+  label: 色診目色應病類
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d4d2
+    span:
+    - body
+    - 13997
+    - 14561
+  label: 目部內應臟腑部位篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d4d3
+    span:
+    - body
+    - 14561
+    - 14862
+  label: 目胞形色應證篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d4d4
+    span:
+    - body
+    - 14862
+    - 16147
+  label: 目睛形色應證篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4d5
+    span:
+    - body
+    - 16147
+    - 28124
+  label: 色診舌色應病類
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d5d2
+    span:
+    - body
+    - 16154
+    - 16601
+  label: 舌部舌色內應臟腑篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d5d3
+    span:
+    - body
+    - 16601
+    - 17171
+  label: 舌質舌苔辨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d5d4
+    span:
+    - body
+    - 17171
+    - 17604
+  label: 舌苔有根無根辨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d5d5
+    span:
+    - body
+    - 17604
+    - 20120
+  label: 傷寒舌苔辨證篇一
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d5d6
+    span:
+    - body
+    - 20120
+    - 23995
+  label: 傷寒舌苔辨證篇二
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d5d7
+    span:
+    - body
+    - 23995
+    - 25454
+  label: 溫熱舌苔辨證篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d5d8
+    span:
+    - body
+    - 25454
+    - 28124
+  label: 雜病舌苔辨證篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d5.d8d20
+    span:
+    - body
+    - 27048
+    - 27208
+  label: 附產婦診唇舌辨母子生死法
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d5.d8d21
+    span:
+    - body
+    - 27208
+    - 28124
+  label: 附小兒苗竅診法總論
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4d6
+    span:
+    - body
+    - 28124
+    - 34359
+  label: 外診雜法類
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d6d2
+    span:
+    - body
+    - 28129
+    - 28590
+  label: 診毛髮法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d6.d2d10
+    span:
+    - body
+    - 28427
+    - 28590
+  label: 附眉毫鼻毫
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d6d3
+    span:
+    - body
+    - 28590
+    - 29028
+  label: 診鼻法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d6d4
+    span:
+    - body
+    - 29028
+    - 29218
+  label: 診人中法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d6d5
+    span:
+    - body
+    - 29218
+    - 30040
+  label: 診唇法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d6d6
+    span:
+    - body
+    - 30040
+    - 30686
+  label: 診齒法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d6d7
+    span:
+    - body
+    - 30686
+    - 30815
+  label: 診耳法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d6d8
+    span:
+    - body
+    - 30815
+    - 31016
+  label: 診爪甲法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d6d9
+    span:
+    - body
+    - 31016
+    - 31548
+  label: 按法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d6d10
+    span:
+    - body
+    - 31548
+    - 31776
+  label: 嗅法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d6d11
+    span:
+    - body
+    - 31776
+    - 33953
+  label: 聞法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb049_jc_003-d4.d6d12
+    span:
+    - body
+    - 33953
+    - 34359
+  label: 問法
+  type: section
+  level: 3
+hash: sha256:243cfbf3620c8ab20d0b5dc03466723cdcbe86378881ff602228a8aded4d45a4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
