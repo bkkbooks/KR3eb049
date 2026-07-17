@@ -7755,6 +7755,7 @@ markers:
   - {type: xml-element, offset: 16606, content: '', id: KR3eb049_jc_003-d4.d5.d3p2, name: p, role: open, attrs: {'xml:id': KR3eb049_jc_003-d4.d5.d3p2}}
   - {type: 'tls:seg', offset: 16606, content: '', id: KR3eb049_jc_003-d4.d5.d3.p2s1}
   - {type: punctuation, offset: 16606, content: (, id: KR3eb049_jc_003-bkkpn3725}
+  - {type: voice, offset: 16606, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 16608, content: ), id: KR3eb049_jc_003-bkkpn3726}
   - {type: xml-element, offset: 16608, content: '', id: KR3eb049_jc_003-d4.d5.d3p2_end, name: p, role: close, attrs: {'xml:id': KR3eb049_jc_003-d4.d5.d3p2}}
   - {type: xml-element, offset: 16608, content: '', id: KR3eb049_jc_003-d4.d5.d3p4, name: p, role: open, attrs: {'xml:id': KR3eb049_jc_003-d4.d5.d3p4}}
@@ -7934,6 +7935,7 @@ markers:
   - {type: xml-element, offset: 17178, content: '', id: KR3eb049_jc_003-d4.d5.d4p2, name: p, role: open, attrs: {'xml:id': KR3eb049_jc_003-d4.d5.d4p2}}
   - {type: 'tls:seg', offset: 17178, content: '', id: KR3eb049_jc_003-d4.d5.d4.p2s1}
   - {type: punctuation, offset: 17178, content: (, id: KR3eb049_jc_003-bkkpn3812}
+  - {type: voice, offset: 17178, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 17180, content: ), id: KR3eb049_jc_003-bkkpn3813}
   - {type: xml-element, offset: 17180, content: '', id: KR3eb049_jc_003-d4.d5.d4p2_end, name: p, role: close, attrs: {'xml:id': KR3eb049_jc_003-d4.d5.d4p2}}
   - {type: xml-element, offset: 17180, content: '', id: KR3eb049_jc_003-d4.d5.d4p4, name: p, role: open, attrs: {'xml:id': KR3eb049_jc_003-d4.d5.d4p4}}
@@ -15813,4 +15815,4 @@ markers:
   - {type: punctuation, offset: 34359, content: 。, id: KR3eb049_jc_003-bkkpn7644}
   - {type: xml-element, offset: 34359, content: '', id: KR3eb049_jc_003-d4.d6.d12p8_end, name: p, role: close, attrs: {'xml:id': KR3eb049_jc_003-d4.d6.d12p8}}
   back: []
-hash: sha256:61d213e7e591583c3a177f70277d7bee772eeb3717fc3d53234aa77cf2a21eb1
+hash: sha256:ea2f9166871125c80becf5dbadf463e7dab5c7e5de008a3f3583fbea47123bf9
